@@ -1,0 +1,19 @@
+{
+  "name": "swdc-kms",
+  "version": "1.0.0",
+  "description": "서령고 웹 캠프 첫번 째 미션",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimDzim/SWDC-KMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimDzim/SWDC-KMS/issues"
+  },
+  "homepage": "https://github.com/KimDzim/SWDC-KMS#readme"
+}
